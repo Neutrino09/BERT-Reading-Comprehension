@@ -2,7 +2,8 @@
 
 BERT-Reading Comprehension The model's task is to read a passage and select the correct answer based on its content.
 
-image
+![image](https://github.com/user-attachments/assets/322e39a3-78e7-4d08-aca0-0df38758868d)
+
 
 Fine-tuning a BERT model means taking a pre-trained BERT model and training it further on a specific task, for this task, we need do it on reading comprehension.
 
